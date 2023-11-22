@@ -258,7 +258,7 @@ body {
 	border-radius: 50%;
 	background-size:180px auto;
 	/*rotation*/
-	animation: rotate1 2.5s linear infinite;
+	animation: rotater 2.5s linear infinite;
 	transition: transform 200ms sinus;
 	transform-style:preserve-3d;
 	box-shadow: inset 50px 0px 88px 5px rgb(50,55,3);
@@ -270,7 +270,7 @@ body {
 	filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
 }	
 
-@keyframes rotate1 {
+@keyframes rotater {
 	0% {
 	background-position: 0 0;
 	}
