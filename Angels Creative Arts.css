@@ -134,7 +134,7 @@ p {
 
 /* globe */
 section {
-	background:  url('Stars.png') 0 0 repeat;
+	background: #888 url('Stars.png') 0 0 repeat;
 	background-size: 300px 800px ;
 	background-attachment: fixed;
 	padding: 25px 25px 130px 0;
@@ -142,7 +142,8 @@ section {
 	transform-style: preserve-3d;
 	animation: gravitation 88s linear infinite;
 	transition: transform 300ms sinus;
-	box-shadow: 2px 2px 5px lightyellow;
+	box-shadow: 2px 2px 5px lightblue;
+
 }
 
 @keyframes gravitation {
@@ -216,7 +217,7 @@ section {
 	font-weight: bold;	
 	padding: 5px 10px;
 
-	transform: rotateY(calc(var(--i) * calc(360deg / 10))) translateZ(88px);
+	transform: rotateY(calc(var(--i) * calc(360deg / 10))) translateZ(100px);
 	
 	zoom: 190%;
 }
