@@ -134,7 +134,7 @@ p {
 
 /* globe */
 section {
-	background: #888 url('Stars.png') 0 0 repeat;
+	background:  url('Stars.png') 0 0 repeat;
 	background-size: 300px 800px ;
 	background-attachment: fixed;
 	padding: 25px 25px 130px 0;
