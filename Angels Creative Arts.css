@@ -145,7 +145,7 @@ section {
 	background-size: 300px 800px ;
 	background-attachment: fixed;
 	padding: 25px 25px 130px 0;
-	border-radius: 5%;
+	border-radius: 10px;
 	transform-style: preserve-3d;
 	animation: gravitation 88s linear infinite;
 	transition: transform 300ms sinus;
@@ -231,11 +231,11 @@ section {
 
 @keyframes animatebanner{
 	0% {
-		transform: perspective(1000px) rotateY(360deg) rotateX(12deg) translateY(-30px) translateX(0px) translateZ(-8px);
+		transform: perspective(1000px) rotateY(360deg) rotateX(12deg) translateY(-30px) translateX(0px) translateZ(0px);
 	}
 	
 	100% {
-		transform: perspective(1000px) rotateY(0deg) rotateX(12deg) translateY(-30px) translateX(0px) translateZ(-8px);
+		transform: perspective(1000px) rotateY(0deg) rotateX(12deg) translateY(-30px) translateX(0px) translateZ(0px);
 	}
 }
 
