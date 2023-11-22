@@ -245,3 +245,55 @@ body {
 	background-attachment: fixed;
 	background-position: center;
 }
+
+
+/* Rotating Angels Logo */
+
+.globe1 {
+	position: relative;
+	height: 120px;
+	width: 120px;
+	margin: 0.05em auto;
+	background: #888 url('/storage/emulated/0/Download/My Animations/Rotating Angels Logo/Logo.png') 0 0 repeat;
+	border-radius: 50%;
+	background-size:180px auto;
+	/*rotation*/
+	animation: rotate1 2.5s linear infinite;
+	transition: transform 200ms sinus;
+	transform-style:preserve-3d;
+	box-shadow: inset 50px 0px 88px 5px rgb(50,55,3);
+	/*shadow*/
+	webkit-filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	o-filter: blur(5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	ms-filter: blur(5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	moz-filter: blur(0.5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+}	
+
+@keyframes rotate1 {
+	0% {
+	background-position: 0 0;
+	}
+	100% {
+	background-position:180px 0;
+	}
+}
+
+/*glow1 for future use:
+
+@keyframes glow1{
+  from {
+    text-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 25px lightgreen, 0 0 30px lightgreen, 0 0 40px white, 0 0 45px red, 0 0 50px lightyellow;
+  }
+  to {
+    text-shadow: 0 0 20px lightblue, 0 0 20px blue, 0 0 25px blue, 0 0 30px darkblue, 0 0 40px blue, 0 0 45px lightblue, 0 0 50px lightblue;
+  }
+}
+
+
+
+#glow1{
+animation: glow 15s ease-in-out infinite alternate;
+}
+
+*/
