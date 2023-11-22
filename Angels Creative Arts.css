@@ -224,18 +224,18 @@ section {
 	font-weight: bold;	
 	padding: 5px 10px;
 
-	transform: rotateY(calc(var(--i) * calc(360deg / 10))) translateZ(100px);
+	transform: rotateY(calc(var(--i) * calc(360deg / 10))) translateZ(88px);
 	
 	zoom: 190%;
 }
 
 @keyframes animatebanner{
 	0% {
-		transform: perspective(1000px) rotateY(360deg) rotateX(12deg) translateY(-30px) translateX(5px) translateZ(-8px);
+		transform: perspective(1000px) rotateY(360deg) rotateX(12deg) translateY(-30px) translateX(0px) translateZ(-8px);
 	}
 	
 	100% {
-		transform: perspective(1000px) rotateY(0deg) rotateX(12deg) translateY(-30px) translateX(-5px) translateZ(-8px);
+		transform: perspective(1000px) rotateY(0deg) rotateX(12deg) translateY(-30px) translateX(0px) translateZ(-8px);
 	}
 }
 
