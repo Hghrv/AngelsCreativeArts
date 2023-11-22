@@ -254,7 +254,7 @@ body {
 	height: 120px;
 	width: 120px;
 	margin: 0.05em auto;
-	background: #888 url('/storage/emulated/0/Download/My Animations/Rotating Angels Logo/Logo.png') 0 0 repeat;
+	background: #888 url('Logo.png') 0 0 repeat;
 	border-radius: 50%;
 	background-size:180px auto;
 	/*rotation*/
