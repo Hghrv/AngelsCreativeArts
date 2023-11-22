@@ -297,3 +297,36 @@ animation: glow 15s ease-in-out infinite alternate;
 }
 
 */
+
+.globe2 {
+	position: relative;
+	height: 120px;
+	width: 120px;
+	margin: 0.05em auto;
+	background: #888 url('B.jpeg') 0 0 repeat;
+	border-radius: 50%;
+	background-size:160px;
+	/*rotation*/
+	animation: rotate2 1.9s linear infinite;
+	transition: transform 200ms sinus;
+	transform-style:preserve-3d;
+	box-shadow: inset 23px 0px 88px 5px rgb(0,0,0);
+	/*shadow*/
+	
+	webkit-filter: blur(0.5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	o-filter: blur(5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	ms-filter: blur(5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	moz-filter: blur(0.5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	filter: blur(0.5px) drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+	
+
+}
+
+@keyframes rotate2 {
+	0% {
+	background-position: 0 0;
+	}
+	100% {
+	background-position:160px 0;
+	}
+}
