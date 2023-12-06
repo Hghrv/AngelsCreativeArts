@@ -179,9 +179,9 @@ section {
 	position: relative;
 	height: 200px;
 	width: 200px;
-	background: #888 url('Map(1).jpeg') 0 0 repeat;
+	background: #888 url('Map (1).jpeg') 0 0 repeat;
 	border-radius: 50%;
-	background-size: 470px auto;
+	background-size: cover;
 	background-repeat: repeat-x;
 	
 	animation: rotate 5s linear infinite;
