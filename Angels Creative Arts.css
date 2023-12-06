@@ -230,17 +230,6 @@ section {
 }
 
 
-
-/* mobile only banner rotation  */
-
-@media screen and (min-width: 481px) {
-  .banner span {
-    display: none;
-  }
-}
-
-
-
 @keyframes animatebanner{
 	0% {
 		transform: perspective(1000px) rotateY(360deg) rotateX(12deg) translateY(0px) translateX(0px) translateZ(0px);
