@@ -229,6 +229,55 @@ section {
 	zoom: 190%;
 }
 
+/* desktop only banner display */
+
+@media screen and (min-width: 481px) {
+  .banner span {
+    display: none;
+  }
+  
+  .banner2 {
+  position: relative;
+  transform-style: preserve-3d;
+  animation: animatebanner2 10s linear infinite;  
+
+  }
+  
+  .banner2 span {
+    position: absolute;
+    top:-120px;
+    left: 450px;
+    
+    background:transparent;
+    color: darkgreen;
+    font-size: 1.8em;
+    transform-origin: 0px 0px -40px;
+    transform-style: preserve-3d;
+    
+    
+    font-weight: bold;
+    padding: 5px 10px;
+    
+    
+    transform: rotateY(calc(var(--i) * calc(360deg / 9))) translateZ(88px);
+  }
+  
+    @keyframes animatebanner2 {
+    0% {
+      transform: perspective(1000px) rotate3d(0.1,1,0, 360deg) ;
+    }
+  
+  
+    100% {
+      transform: perspective(1000px)
+      rotate3d(0.1,1,0, 0deg) ;
+    }
+  
+}
+
+	
+
+/* mobile display animation  */
 
 @keyframes animatebanner{
 	0% {
