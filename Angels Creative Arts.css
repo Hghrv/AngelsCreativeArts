@@ -179,10 +179,10 @@ section {
 	position: relative;
 	height: 200px;
 	width: 200px;
-	background: #888 url('Map.jpeg') 0 0 repeat;
+	background: #888 url('Map(1).jpeg') 0 0 repeat;
 	border-radius: 50%;
 	background-size: 470px auto;
-	background-repeat: repeat;
+	background-repeat: repeat-x;
 	
 	animation: rotate 5s linear infinite;
 	transition: transform 400ms sinus;
