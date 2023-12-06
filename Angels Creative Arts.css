@@ -181,7 +181,7 @@ section {
 	width: 200px;
 	background: #888 url('Map.jpeg') 0 0 repeat;
 	border-radius: 50%;
-	background-size: 470px auto;
+	background-size: cover;
 	background-repeat: repeat-x;
 	
 	animation: rotate 5s linear infinite;
