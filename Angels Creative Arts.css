@@ -206,9 +206,9 @@ section {
 	transform-style: preserve-3d ;
 	animation: animatebanner 10s linear infinite;
 	
-
-
 }
+
+
 
 .banner span {
 	position:absolute;
@@ -228,6 +228,18 @@ section {
 	
 	zoom: 190%;
 }
+
+
+
+/* mobile only banner rotation  */
+
+@media screen and (min-width: 481px) {
+  .banner span {
+    display: none;
+  }
+}
+
+
 
 @keyframes animatebanner{
 	0% {
