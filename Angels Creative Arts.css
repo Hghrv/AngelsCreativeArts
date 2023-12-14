@@ -225,10 +225,12 @@ h5 {
   letter-spacing: 8px;
   letter-spacing: 2px;
   font-size: 12px;
-  line-height: 20px;
+  line-height: 3vh;
   color: whitesmoke;
 }
 	
+div h5 { font-size: 2vh;}
+
 footer p {
   background-position-x: 0px;
   margin-bottom: 0%;
