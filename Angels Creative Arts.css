@@ -224,7 +224,7 @@ p {
 h5 {
   letter-spacing: 8px;
   letter-spacing: 2px;
-  font-size: 12px;
+  font-size: 2vh;
   line-height: 3vh;
   color: whitesmoke;
 }
