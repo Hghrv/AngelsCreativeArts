@@ -265,6 +265,7 @@ h4 { background-color: rgb(49 68 5/30%);
 h4 span {
   text-align: center;
   margin: 2% 2% 2% 2%;
+  font-size: 2vh;
 }
 
 h3 {
