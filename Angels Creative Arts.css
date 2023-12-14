@@ -320,6 +320,11 @@ p {
 #shad {
   text-align: center;
   padding: 10% 3% 3% 3%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+video{
+  padding: 0% 0% 0% 0%;
 }
 .bounce {
   animation-name: bounce;
