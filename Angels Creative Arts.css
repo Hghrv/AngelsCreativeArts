@@ -31,7 +31,7 @@ body {
 }
 
 #bg3{
-  background-image: url("/Bg1.jpeg");
+  background-image: url("Bg1.jpeg");
   background-repeat: no-repeat;
   background-size: 100%, 3%;
 }
