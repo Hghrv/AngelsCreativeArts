@@ -50,7 +50,7 @@ body {
     margin: 5%;
     margin-top: 0%;
     margin-bottom: 0%;
-    height : 15vh;
+    height: 15vh;
 
 }
 
@@ -208,13 +208,14 @@ h1 {
 ol {
   color: #e06363;
   font-weight: bold;
+  font-size: 2vh;
   box-shadow: 2px 2px 5px lightblue;
   border-radius: 15px;
   padding: 5% 10%;
     /* background-color: rgb(49 68 5/30%) ; */
 }
 li{
-font-size: 1vh;
+font-size: 2vh;
 }
 	
 p {
@@ -225,14 +226,13 @@ p {
 }
 
 h5 {
-  letter-spacing: 8px;
   letter-spacing: 2px;
-  font-size: 2vh;
+  font-size: 1vh;
   line-height: 3vh;
   color: whitesmoke;
 }
 	
-
+div h5 { font-size: 2vh;}
 
 footer p {
   background-position-x: 0px;
