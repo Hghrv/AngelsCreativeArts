@@ -28,6 +28,9 @@ body {
   background-color: rgba(6, 0, 0, 1);
   margin-bottom: 0%;
   height: 20vh   ;
+  background: #888 url('Stars.png') 0 0 repeat;
+  animation: gravitation 88s linear infinite;
+
 }
 
 #bg3{
