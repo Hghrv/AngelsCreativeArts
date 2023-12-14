@@ -213,7 +213,10 @@ ol {
   padding: 5% 10%;
     /* background-color: rgb(49 68 5/30%) ; */
 }
-
+li{
+font-size: 1vh;
+}
+	
 p {
   font-family: verdana;
   font-size: 20px;
@@ -224,7 +227,7 @@ p {
 h5 {
   letter-spacing: 8px;
   letter-spacing: 2px;
-  font-size: 2vh;
+  font-size: 1vh;
   line-height: 3vh;
   color: whitesmoke;
 }
