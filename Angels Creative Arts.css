@@ -227,12 +227,11 @@ p {
 
 h5 {
   letter-spacing: 2px;
-  font-size: 1vh;
-  line-height: 2.5vh;
+  font-size: 2vh;
+  line-height: 3vh;
   color: whitesmoke;
 }
 	
-div h5 { font-size: 1vh;}
 
 footer p {
   background-position-x: 0px;
