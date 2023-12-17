@@ -66,7 +66,7 @@ body {
 #opac{
   opacity: 80%;
 height: 10vh;
-width: 30vh;
+width: 35vh;
 }
 
 	
@@ -75,7 +75,7 @@ h1 {
   opacity: 50%;
   scale:100% ;
   padding: 5% 5%;
-  color: dimgrey;
+  color: #AD9920;
   text-align: center;
   text-shadow: black ;
   background-color: green;
