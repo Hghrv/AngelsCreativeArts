@@ -178,13 +178,14 @@ body {
 #bg3{
   background-image: url('Bg1.jpeg');
   background-repeat: no-repeat;
-  background-size: 100%, 3%;
+  background-size: 100%, 3.5%;
 }
 
 .mrgn {
   
   margin: 5%;
-  margin-top: 0%;
+  margin-top: 0%
+  
 }
 
 .mrgn5 {
