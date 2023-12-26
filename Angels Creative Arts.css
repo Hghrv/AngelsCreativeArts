@@ -56,12 +56,12 @@ a{
   position: relative;
 
   padding: 0px 5px;
-  transition: 0.67s;
+  transition: 0.5s;
   border-radius: 0.5vh;
 }
 
 a:hover {
-  letter-spacing: 0.5em;
+  letter-spacing: 0.8em;
   scale: 1.03 ;
    /*  background: rgba(207, 213, 129, 0.42); */
 
