@@ -101,7 +101,7 @@ a i::before {
   width: 5px;
   height: 2px ;
   border: 1px solid rgba(129, 202, 213, 0.54) ;
-  transform: translateX(-15%);
+  transform: translateX(-25%);
   transition: 0.3s ;
   border-radius: 0.5vh;
   background-color: rgba(201, 161, 89, 0.75);
