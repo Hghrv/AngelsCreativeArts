@@ -56,13 +56,13 @@ a{
   position: relative;
 
   padding: 0px 5px;
-  transition: 0.5s;
+  transition: 0.3s;
   border-radius: 0.5vh;
 }
 
 a:hover {
-  letter-spacing: 0.3em;
-  scale: 1.03 ;
+  letter-spacing: 0.08em;
+  scale: 1.02 ;
    /*  background: rgba(207, 213, 129, 0.42); */
 
   background: var(--clr);
@@ -436,7 +436,7 @@ p {
 }
 .logo {
   text-align: center;
-  padding: 2.5% 0.67%;
+  padding: 2.5% 0.5%;
   border-radius: 10px;
   box-shadow: 2px 2px 5px lightblue;
   margin-bottom: 5px;
