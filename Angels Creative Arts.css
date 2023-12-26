@@ -102,7 +102,7 @@ a i::before {
   height: 2px ;
   border: 1px solid rgba(129, 202, 213, 0.54) ;
   transform: translateX(-50%);
-  transition: 0.4s ;
+  transition: 0.3s ;
   border-radius: 0.5vh;
   background-color: rgba(201, 161, 89, 0.75);
 }
@@ -121,7 +121,7 @@ a i::after {
   height: 1.08px;
   border: 1px solid rgba(129, 202, 213, 0.54);
   transform: translateX(0%);
-  transition: 0.4s ;
+  transition: 0.3s ;
   border-radius: 0.5vh;
   background-color: rgba(201, 161, 89, 0.75) ;
   
