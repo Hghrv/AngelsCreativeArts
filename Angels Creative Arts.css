@@ -61,7 +61,7 @@ a{
 }
 
 a:hover {
-  letter-spacing: 0.8em;
+  letter-spacing: 0.3em;
   scale: 1.03 ;
    /*  background: rgba(207, 213, 129, 0.42); */
 
@@ -436,7 +436,7 @@ p {
 }
 .logo {
   text-align: center;
-  padding: 2.5% 0.68%;
+  padding: 2.5% 0.67%;
   border-radius: 10px;
   box-shadow: 2px 2px 5px lightblue;
   margin-bottom: 5px;
