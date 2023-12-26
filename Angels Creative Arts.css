@@ -149,7 +149,7 @@ a.button {
 
 
 .sz{
-  font-size: 4vh;
+  font-size: 3vh;
 }
 
 
@@ -436,7 +436,7 @@ p {
 }
 .logo {
   text-align: center;
-  padding: 2.5% 1%;
+  padding: 2.5% 0.7%;
   border-radius: 10px;
   box-shadow: 2px 2px 5px lightblue;
   margin-bottom: 5px;
