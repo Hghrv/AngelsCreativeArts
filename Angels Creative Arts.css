@@ -436,12 +436,12 @@ p {
 }
 .logo {
   text-align: center;
-  padding: 2.5% 0.8%;
+  padding: 2.5% 0.7%;
   border-radius: 10px;
   box-shadow: 2px 2px 5px lightblue;
   margin-bottom: 5px;
   margin-top: 5px;
-  margin-left: 12px;
+  margin-left: 8px;
 }
 
 #logo1 {
