@@ -61,8 +61,8 @@ a{
 }
 
 a:hover {
-  letter-spacing: 0.1em;
-  scale: 1.05 ;
+  letter-spacing: 0.7em;
+  scale: 1.03 ;
    /*  background: rgba(207, 213, 129, 0.42); */
 
   background: var(--clr);
