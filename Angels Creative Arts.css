@@ -2,16 +2,16 @@
   position: relative;
   right: 0;
   bottom: 0;
-  width: 45vh ;
+  width: 43vh ;
   height: 80%;
   
 }
 
 .content {
   position:  relative;
-  bottom: 17vh;
+  bottom: 13vh;
   background: rgba(0, 0, 0, 0.2);
-  width: 45vh ;
+  width: 43vh ;
   padding: 2vh 2vh ;
   
 }
