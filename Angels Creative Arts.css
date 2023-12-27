@@ -231,10 +231,11 @@ body {
   margin-left: 5%;
   margin-right: 5%;
 }
+	
 #opac{
   opacity: 55%;
 /* height: 10vh; */
-transform: scale(1,2);
+transform: scale(1,2.5);
 
 }
 
