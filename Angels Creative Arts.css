@@ -232,8 +232,8 @@ body {
   margin-right: 5%;
 }
 #opac{
-  opacity: 50%;
-height: 10vh;
+  opacity: 55%;
+/* height: 10vh; */
 transform: scale(1,2);
 
 }
