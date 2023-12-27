@@ -765,6 +765,7 @@ animation: glow 15s ease-in-out infinite alternate;
 */
 
 .globe2 {
+	scale: 1.5% ;
 	position: relative;
 	height: 120px;
 	width: 120px;
