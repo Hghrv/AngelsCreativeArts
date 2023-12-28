@@ -1,3 +1,78 @@
+/* scrolling text */
+.scrleft{
+  display: block;
+  padding: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 47vh;
+  max-width: 100vh;
+  margin-left: 5vh;
+  
+  
+}
+ 
+.scrleft div {
+  position: relative;
+  min-width: 100%;
+  margin-top: 0;
+}
+ 
+.scrleft div span, 
+.scrleft div:after {
+position: absolute;
+  display: inline-block;
+  font-size: 2vh;
+  white-space: nowrap;
+  top:0;
+
+}
+
+.scrleft div span {
+  animation: sc 45s infinite linear;
+  background: #cde;
+  
+}
+ 
+.scrleft div:after {
+  position: relative;
+  top:0; left:0; 
+  content:attr(data-text);
+  animation: sc2 45s infinite linear;
+  /* background:; */
+}
+
+@keyframes sc {
+  0% { margin-left: 0; }
+  100% { margin-left: -200vh; }
+}
+ 
+@keyframes sc2 {
+  0% { margin-left: 50vh; }
+  100% { margin-left: -150vh; }
+}
+
+
+
+.traduction {
+  text-align: center ;
+  width: 4vh;
+  height: 3vh;
+  /*border: 1px;*/
+  border-radius: 10%;
+  margin-left: 0.5vh;
+  margin-top: 0.1vh;
+  margin-bottom: 0.1vh;
+  color: whitesmoke;
+  background-color: dodgerblue;
+  padding-top: 0.5vh;
+  padding-bottom: 1vh;
+  font-size: 1vh;
+  scale: 1 0.7;
+}
+
+/* end */
+
+
 #vidbgd {
   position: relative;
   right: 0;
