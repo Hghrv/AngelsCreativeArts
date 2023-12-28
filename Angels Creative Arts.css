@@ -114,7 +114,7 @@ position: absolute;
   width: 100vh;
   height: 4vh;
   background: rgba(42, 141, 27, 0.93);
-  margin: 1.vh;
+  margin: 1vh;
   border-radius: 50%;
   box-shadow: 0 0 0 1px rgba(141, 133, 27, 0.75), 0 0 0 5px rgba(226, 212, 36, 0.67), 0 0 0 8px rgba(226, 164, 36, 0.67), 0 0 0 10px rgba(226, 36, 36, 0.67), 0 0 0 25px rgba(36, 226, 197, 0.31), 0 0 0 40px rgba(93, 125, 120, 0.14), 0 0 0 40px rgba(77, 90, 85, 0.52);
   transform: scale(23%);
@@ -507,8 +507,7 @@ footer p {
   
 }
 	
- h4 {
-   text-align: center;
+
 
 /*
    background-color: rgb(49 68 5/30%);
@@ -517,7 +516,7 @@ footer p {
 	
 h4 span {
   text-align: center;
-  margin: 1.5% 1.5% 1.5% 1.5%;
+  margin: 1.5vh 1.5vh 1.5vh 1.5vh;
   font-size: 1.5vh;
 }
 
