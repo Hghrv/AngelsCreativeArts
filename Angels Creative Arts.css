@@ -4,7 +4,7 @@
   padding: 0;
   overflow: hidden;
   position: absolute;
-  width: 44vh;
+  width: 45vh;
   max-width: 100vh;
   margin-left: 5vh;
   
@@ -517,7 +517,7 @@ h4 { background-color: rgb(49 68 5/30%);
 h4 span {
   text-align: center;
   margin: 1.5% 1.5% 1.5% 1.5%;
-  font-size: 1.8vh;
+  font-size: 1.5vh;
 }
 
 h3 {
