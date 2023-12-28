@@ -506,18 +506,18 @@ footer p {
   font-family: Lato, sans-serif;
   
 }
-
+	
+ h4 {
+   text-align: center;
 /*
-h4 { background-color: rgb(49 68 5/30%);
-  
-} 
+   background-color: rgb(49 68 5/30%);
 */
-
+}
 	
 h4 span {
   text-align: center;
   margin: 1.5% 1.5% 1.5% 1.5%;
-  font-size: 1.618vh;
+  font-size: 1.65vh;
 }
 
 h3 {
