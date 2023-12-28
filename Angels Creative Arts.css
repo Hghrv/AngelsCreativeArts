@@ -510,13 +510,14 @@ footer p {
 
 
 /*
+	h4
    background-color: rgb(49 68 5/30%);
 */
-}
+
 	
 h4 span {
   text-align: center;
-  margin: 1.5vh 1.5vh 1.5vh 1.5vh;
+  margin: 1.5% 1.5% 1.5% 1.5%;
   font-size: 1.6vh;
 }
 
