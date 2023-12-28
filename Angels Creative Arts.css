@@ -509,7 +509,7 @@ footer p {
 	
  h4 {
    text-align: center;
-    margin-left: 10vh;
+
 /*
    background-color: rgb(49 68 5/30%);
 */
@@ -540,7 +540,7 @@ p {
   box-shadow: 2px 2px 5px lightblue;
   margin-bottom: 5px;
   margin-top: 5px;
-  margin-left: 0px;
+  margin-left: 10px;
   margin-right: 0px;
 }
 
