@@ -7,7 +7,7 @@
   width: 43vh;
   max-width: 100%;
   margin-left: 5vh;
-color: grey;
+
   
   
 }
@@ -16,6 +16,7 @@ color: grey;
   position: relative;
   min-width: 100%;
   margin-top: 0;
+  color: grey;
 }
  
 .scrleft div span, 
