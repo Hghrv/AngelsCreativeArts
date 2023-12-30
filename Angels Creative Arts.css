@@ -263,8 +263,9 @@ body {
   background-size :  100% 3%;
   
   background-position-y: 0px, 24.5% ;
-
-  background-color:rgba(4, 33, 45, 0.89);
+  
+  background-color: rgb(54,75,81, 0.9);
+  
   
 }
 
@@ -462,7 +463,7 @@ ol {
   box-shadow: 2px 2px 5px lightblue;
   border-radius: 15px;
   padding: 5% 10%;
-    /* background-color: rgb(49 68 5/30%) ; */
+  background-color: rgba(59, 80, 108, 0.45);
 }
 ol li{
 font-size: 2vh;
@@ -545,7 +546,9 @@ p {
   margin-top: 5px;
   margin-left: 10px;
   margin-right: 0px;
+  background-color: rgba(59, 80, 108, 0.5);
 }
+
 
 #logo1 {
   
