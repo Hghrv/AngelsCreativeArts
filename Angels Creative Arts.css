@@ -463,7 +463,7 @@ ol {
   box-shadow: 2px 2px 5px lightblue;
   border-radius: 15px;
   padding: 5% 10%;
-  background-color: rgba(59, 80, 108, 0.45);
+  background-color: rgba(59, 80, 108, 0.40);
 }
 ol li{
 font-size: 2vh;
@@ -546,7 +546,7 @@ p {
   margin-top: 5px;
   margin-left: 10px;
   margin-right: 0px;
-  background-color: rgba(59, 80, 108, 0.5);
+  background-color: rgba(59, 80, 108, 0.45);
 }
 
 
