@@ -258,7 +258,7 @@ body {
   margin-bottom: 0%;
   background-image: url("")  , url(""),
 
-  linear-gradient(to right, rgba(30, 75, 15, 1), rgba(55, 55, 55, 0), rgba(30, 75, 55, 1));
+  linear-gradient(to right, rgba(55, 55, 55, 0));
   background-repeat: no-repeat no-repeat;
   background-size :  100% 3%;
   
