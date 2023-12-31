@@ -314,7 +314,9 @@ body {
   opacity: 55%;
 /* height: 10vh; */
 transform: scale(1,2.5);
-
+	
+text-shadow: 0 0 1px rgba(217, 225, 97, 0.82), 0 0 1px gold;
+  
 }
 
 	
