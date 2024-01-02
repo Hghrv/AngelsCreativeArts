@@ -1,4 +1,4 @@
-marquee {
+umarquee {
   font-size: 1.5vh;
   color: whitesmoke;
 }
@@ -702,6 +702,7 @@ p {
 #rrct2 {
   border-radius: 50%;
   float: left;
+ transform: translateY(5vh) ;
 }
 
 #pjct {
