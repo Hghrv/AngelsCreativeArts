@@ -693,7 +693,7 @@ p {
 
 
 .rndrect {
-  border-radius: 50%;
+  border-radius: 15px;
 }
 #rrct {
   border-radius: 5px;
