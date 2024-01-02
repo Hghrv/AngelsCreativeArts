@@ -699,6 +699,9 @@ p {
   border-radius: 5px;
   text-align: center;
 }
+#rrct2 {
+  border-radius: 50%;
+}
 
 #pjct {
   color: grey;
