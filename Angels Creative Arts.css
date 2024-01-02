@@ -1,6 +1,6 @@
-
-marquee p{
+marquee {
   font-size: 1.5vh;
+  color: lightblue;
 }
 
 
