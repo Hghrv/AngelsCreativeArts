@@ -590,7 +590,7 @@ h1 {
 
 	
 ol {
-  color:  lightblue /* #e06363 */ ;
+  color: rgba(200, 190, 0, 1) /* #e06363 */ ;
   font-weight: bold;
   font-size: 2vh;
   box-shadow: 2px 2px 5px lightblue;
