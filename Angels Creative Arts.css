@@ -1,4 +1,4 @@
-umarquee {
+marquee {
   font-size: 1.5vh;
   color: whitesmoke;
 }
@@ -590,7 +590,7 @@ h1 {
 
 	
 ol {
-  color: #e06363;
+  color:  lightblue /* #e06363 */ ;
   font-weight: bold;
   font-size: 2vh;
   box-shadow: 2px 2px 5px lightblue;
