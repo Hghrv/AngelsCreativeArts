@@ -630,7 +630,7 @@ footer p {
   margin: 0% 0% 0% 0%;
   background-color: black;
   background: #888 url('Stars.png') 0 0 repeat;
-  animation: gravitation 123s linear infinite;
+  animation: gravitation 180s linear infinite;
  }
 
 footer p {
