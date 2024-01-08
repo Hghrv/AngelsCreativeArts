@@ -1,6 +1,6 @@
 .fixed{
   position: fixed ;
-  
+  width: 100% ;
   z-index: 3;
 }
 
@@ -148,7 +148,7 @@ height: 30vh;
   width: 43vh;
   max-width: 100%;
   margin-left: 5vh;
-  background-color: lightsteelblue;
+  
   z-index: 3;
   opacity: 100% ;
   
