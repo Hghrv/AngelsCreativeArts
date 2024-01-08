@@ -67,6 +67,8 @@ height: 30vh;
   justify-content: center ;
   align-items: center;
   font-size: 2vh;
+  position: sticky;
+  top: 3vh;
   
   
 }
@@ -82,7 +84,7 @@ height: 30vh;
   justify-content: center ;
   align-items: center;
   position: sticky;
-  top: 2vh;
+  top: 5vh;
   
    border-radius: 10px;
    box-shadow: 2px 2px 5px lightblue;
