@@ -692,7 +692,7 @@ p {
   box-shadow: 2px 2px 5px lightblue;
   margin-bottom: 5px;
   margin-top: 5px;
-  margin-left: 10px;
+  margin-left: 5vh;
   margin-right: 0px;
   background-color: rgba(59, 75, 108, 0.4);
 }
