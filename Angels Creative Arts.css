@@ -161,7 +161,17 @@ height: 30vh;
 
 /*  cards  */
 
-.header, .footer {
+.footer {
+   display: flex ;
+  justify-content: center ;
+  align-items: center;
+  font-size: 2vh;
+  position: sticky;
+  top: 3vh;
+}
+
+
+.header {
   
   display: flex ;
   justify-content: center ;
