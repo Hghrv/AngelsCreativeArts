@@ -73,7 +73,7 @@
 
 #main p{
   margin-top: 0 ;
-  transform: translateY(-1vh)
+  transform: translateY(-0.25vh)
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
