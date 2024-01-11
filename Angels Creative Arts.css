@@ -756,24 +756,6 @@ footer p {
   font-family: Lato, sans-serif;
   
 }
-	
-h4 {
-	  /*  cascading gradients  */
-  background: radial-gradient(
-    hsl(100 100% 53%), 
-    hsl(200 100% 53%) 
-  ) fixed;
-  background: conic-gradient(
-    hsl(100 100% 53%), 
-    hsl(200 100% 53%), 
-    hsl(100 100% 53%) 
-  ) fixed;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  /* text-align: center; */
-
-     /*  end  */
-}
 
 
 
