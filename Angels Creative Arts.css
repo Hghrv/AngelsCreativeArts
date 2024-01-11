@@ -770,6 +770,31 @@ h4 span {
   font-size: 1.5vh;
 }
 
+
+h6{
+  font-size: 4vw;
+  letter-spacing: 0.2vh;
+
+    /*  cascading gradients  */
+background: radial-gradient(
+    hsl(100 100% 53%), 
+    hsl(200 100% 53%) 
+  ) fixed;
+  background: conic-gradient(
+    hsl(100 100% 53%), 
+    hsl(200 100% 53%), 
+    hsl(100 100% 53%) 
+  ) fixed;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* text-align: center; */ 
+
+     /*  end  */
+	
+}
+
+
+
 h3 {
   text-transform: uppercase;
   margin-top: 8%;
