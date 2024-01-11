@@ -24,7 +24,7 @@
  /* font-size: 25px; */
   font-size: 5vw;
   line-height: 5vh;
-  color: lightgreen;
+  color:  lightsteelblue  /* or,  color: lightgreen; */ ;
 	
   display: block;
   transition: 0.3s;
