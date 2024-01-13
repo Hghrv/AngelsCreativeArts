@@ -899,7 +899,7 @@ p {
   text-align: center;
   padding: 5% 5% 0% 0%;
 
-  transform: translateY(-2.5vh);
+  transform: translate( 1vw, -2.5vh );
 	
 }
 
