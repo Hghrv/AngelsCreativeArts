@@ -122,6 +122,16 @@ text-align: center ;
 
 }
 
+#mq {
+ height: 3.5vh;
+ background-color: lightcyan;
+ font-size: 3vw ;
+ display: grid;
+ align-items: center;
+ position: fixed ;
+ 
+}
+
 
 .nglow1 {
   
