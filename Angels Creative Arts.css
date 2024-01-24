@@ -941,6 +941,10 @@ a.button {
 
 
 body {
+
+  animation: fd-n 2s linear 1;
+  transition: 0.5s;
+
   font-family: Lato, sans-serif;
   margin-left: 0%;
   margin-right: 0%;
