@@ -102,6 +102,8 @@ overflow: auto;
 #pos {
   position: absolute;
   align-items: center;
+ justify-items: center;
+text-align: center ;
   transform: translateX(-5.5vw);
   scale: 0.5;
   padding-bottom: 10vh ;
