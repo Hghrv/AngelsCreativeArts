@@ -237,7 +237,7 @@ background-color: springgreen  ;
   align-items: center;
   justify-content: center;
   background:  #2A4F7CBA  /* #3D4A03 */ /* black */ ;
-  background-image: url("/Bg2.jpeg");
+  background-image: url('Bg2.jpeg');
   font-family: consolas ;
   animation: fd-n 2s linear 1 ;
   transition: 0.5s;
