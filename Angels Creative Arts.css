@@ -135,6 +135,7 @@ text-align: center ;
 #ht {
 scale: 2 ;
 background-color: #050801 ;
+transform: translateY(2vh) ;
 }
 
 .nglow1 {
