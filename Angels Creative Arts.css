@@ -134,10 +134,9 @@ text-align: center ;
 
 #ht {
 position: absolute ;
-width: 50vw ;
-scale: 1.1 ;
+width: 100vw ;
 background-color: #050801 ;
-transform: translateY(4vh) ;
+transform: translateY(1vh) ;
 -webkit-box-reflect: below 1px linear-gradient(transparent, #0005 );
 }
 
