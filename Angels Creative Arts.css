@@ -266,7 +266,7 @@ background-color: springgreen  ;
 
 .mask {
   position: relative;
-  height: 20vh;
+  height: 30vh;
   width: 90vw;
   display: flex;
   align-items: center;
