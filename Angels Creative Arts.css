@@ -269,6 +269,8 @@ background-color: springgreen  ;
   font-family: consolas ;
   animation: fd-n 2s linear 1 ;
   transition: 0.5s;
+	
+  transform: scale(1.1) ;
 }
 
 @keyframes fd-n {
