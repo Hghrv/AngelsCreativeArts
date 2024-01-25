@@ -207,7 +207,8 @@ text-align: center ;
 
 
 #reduce {
-  scale: 0.8 ;
+  scale: 1.1;
+  transform: translateX(2vw) ;
 }
 
 
