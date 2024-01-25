@@ -133,6 +133,7 @@ text-align: center ;
 }
 
 #ht {
+position: absolute ;
 width: 50vw ;
 scale: 1.1 ;
 background-color: #050801 ;
