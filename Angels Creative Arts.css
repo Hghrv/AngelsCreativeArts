@@ -128,8 +128,8 @@ text-align: center ;
  font-size: 3vw ;
  display: grid;
  align-items: center;
- position: fixed ;
- 
+ position: fixed ;	
+ color: darkolivegreen ;
 }
 
 
