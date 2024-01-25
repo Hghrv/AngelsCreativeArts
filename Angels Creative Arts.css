@@ -136,7 +136,7 @@ text-align: center ;
 #ht {
 width: 100vw ;
 background-color: #050801 ;
-transform: translateY(12vh) ;
+transform: translateY(4vh) ;
 -webkit-box-reflect: below 1px linear-gradient(transparent, #0005 );
 }
 
