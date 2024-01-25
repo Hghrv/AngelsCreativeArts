@@ -133,6 +133,9 @@ text-align: center ;
 }
 
 #ht {
+margin-top: 0 ;
+padding: 0 ;
+overflow: hidden;
 scale: 1.1 ;
 background-color: #050801 ;
 transform: translateY(2vh) ;
