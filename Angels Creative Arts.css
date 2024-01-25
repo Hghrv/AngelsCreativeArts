@@ -139,6 +139,12 @@ transform: translateY(3vh) ;
 -webkit-box-reflect: below 1px linear-gradient(transparent, #0005 );
 }
 
+.ry {
+scale: 1.1 ;
+}
+
+
+
 .nglow1 {
   
   display: inline-block;
