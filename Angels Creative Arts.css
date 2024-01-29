@@ -1,6 +1,26 @@
 
 
 
+#bx{
+  display: box;
+  float: right;
+  text-align: center;
+  align-items: center;
+  padding-top: 4vh;
+  background: lightgrey ;
+  
+  color: gray ;
+
+  right: 1vw;
+  width: 31vw;
+  height: 13.4vh;
+  font-size: 1.5vw;
+  font-family: arial ;
+  
+}
+
+
+
 .portal::-webkit-scrollbar {
   width: 1vw;
   border: 5px solid white;
