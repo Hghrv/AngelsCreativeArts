@@ -202,7 +202,16 @@ scale: 1.2 ;
   
 }
 
+.ngp {
+  
+/* transform: translateX(0vw) translateY(0vh) ; */
+  
+margin-bottom: 10vh ;
+  
+}
+
 .nglow {
+  width: 50vw ;
   display: inline-block ;
   align-items: center ;
   text-justify: center ;
@@ -239,7 +248,10 @@ scale: 1.2 ;
 
 
 #reduce {
-  transform: translateX(2vw) ;
+ /* transform: translateX(2vw) ; */
+
+   scale: 1.5;
+   transform: translateX(20vw) translateY(15vh); 
 }
 
 
