@@ -156,7 +156,7 @@ text-align: center ;
 #rise {
   transform:   translateY(5vh) ;
   text-align: center ;
-  scale: 1.2 ;
+  height: 0vh ;
 }
 
 
