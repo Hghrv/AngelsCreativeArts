@@ -142,6 +142,20 @@ text-align: center ;
 
 }
 
+
+#fill1 {
+  width: 100vw;
+  height: 90vh;
+  background: rgba(5, 8, 1, 0.46) ;
+  justify-items: center;
+  padding-left: 2vw;
+  padding-top: 15vh;
+  
+
+
+}
+
+
 #mq {
  height: 3.5vh;
  background-color: lightcyan;
