@@ -150,8 +150,11 @@ text-align: center ;
   justify-items: center;
   padding-top: 15vh;
   
+}
 
 
+#rise {
+  transform: translateY(-10vh) ;
 }
 
 
