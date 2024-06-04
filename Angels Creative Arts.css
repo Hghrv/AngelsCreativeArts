@@ -144,12 +144,12 @@ text-align: center ;
 
 
 #fill1 {
-  width: 100vw;
-  height: 90vh;
+  width: 150vw;
+  height: 100vh;
   background: rgba(5, 8, 1, 0.46) ;
   justify-items: center;
   padding-left: 2vw;
-  padding-top: 15vh;
+  padding-top: 10vh;
   
 
 
@@ -265,7 +265,7 @@ margin-bottom: 10vh ;
  /* transform: translateX(2vw) ; */
 
    scale: 1.5;
-   transform: translateX(20vw) translateY(15vh); 
+   transform: translateX(20vw) translateY(10vh); 
 }
 
 
