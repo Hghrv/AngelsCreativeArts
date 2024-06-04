@@ -264,7 +264,7 @@ margin-bottom: 10vh ;
  /* transform: translateX(2vw) ; */
    max-width: 50vw;
    scale: 1.5;
-   transform: translateX(15vw) translateY(10vh); 
+   transform: translateX(15vw) translateY(5vh); 
 }
 
 
