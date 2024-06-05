@@ -154,7 +154,7 @@ text-align: center ;
 
 
 #rise {
-  transform: translateX(12vw) translateY(-20vh) ;
+  transform: translateX(12vw) translateY(-10vh) ;
   text-align: center ;
   height: 20vh ;
   max-width: 70vw ;
