@@ -19,9 +19,9 @@
 
 .cntent {
   position:  relative;
-  transform:  translateX(13vw) translateY(-15vh);
+  transform:  translateX(13vw) translateY(-25vh);
   background: rgba(0, 0, 0, 0.2);
-  width: 74vw /* 47vh */ ; 
+  width: 75vw /* 47vh */ ; 
   padding: 2vh 2vh;
   margin-bottom: 0px;
   
