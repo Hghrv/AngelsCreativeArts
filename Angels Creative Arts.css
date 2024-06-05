@@ -4,14 +4,17 @@
 
 #vdbgd {
   
-  scale: 1.11 ;
+/*  scale: 1.11 ; */
   position: relative;
   right: 0;
   bottom: 0;
-  width: 89vw;
+  width: 39vh ;
   height: 50vw;
   margin-bottom: 0;
-  transform: translateX(5vw) ;
+  transform: translateX(13vw) ;
+
+  border-radius: 10px ;
+
 }
 
 .cntent {
