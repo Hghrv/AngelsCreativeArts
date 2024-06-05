@@ -15,7 +15,7 @@
 
 .cntent {
   position:  relative;
-  transform:  translateX(-5vw) translateY(-25vh);
+  transform:  translateX(0vw) translateY(-25vh);
   background: rgba(0, 0, 0, 0.2);
   width: 89vw /* 47vh */ ; 
   padding: 2vh 2vh;
@@ -29,6 +29,9 @@
   color: whitesmoke ;
 }
 
+#hhh{
+  height: 3vh ;
+}
 
 #bx{
   display: box;
