@@ -8,16 +8,16 @@
   right: 0;
   bottom: 0;
   width: 89vw;
-  height: 100%;
+  height: 50vw;
   margin-bottom: 0;
   transform: translateX(5vw) ;
 }
 
 .cntent {
   position:  relative;
-  transform:  translateX(0vw) translateY(-25vh);
+  transform:  translateX(13vw) translateY(-25vh);
   background: rgba(0, 0, 0, 0.2);
-  width: 89vw /* 47vh */ ; 
+  width: 39vh /* 47vh */ ; 
   padding: 2vh 2vh;
   margin-bottom: 0px;
   
