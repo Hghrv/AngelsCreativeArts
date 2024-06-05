@@ -185,7 +185,7 @@ text-align: center ;
 #rise {
   transform: translateX(12vw) translateY(-7vh) ;
   text-align: center ;
-  height: 15vh ;
+  height: 5vh ;
   max-width: 70vw ;
   scale: 1.3 ;
 }
