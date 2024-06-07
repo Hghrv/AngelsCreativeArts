@@ -2,6 +2,15 @@
 
 
 
+#lgps {
+  
+  transform: translateX(-5vw) translateY(-9vh) ;
+  opacity: 0.8 ;
+  border-radius: 10px ;
+  width: 100vw ;
+  height: 16.5vh ;
+}
+
 #vdbgd {
   
 /*  scale: 1.11 ; */
