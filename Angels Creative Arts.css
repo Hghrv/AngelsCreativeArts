@@ -2,6 +2,13 @@
 
 
 
+#posdwn {
+  transform: translateY(20vh) ;
+  font-size: 3vw ;
+  height: 0vw;
+}
+
+
 #lgps {
   
   transform: translateX(-5vw) translateY(-9vh) ;
