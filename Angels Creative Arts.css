@@ -3,9 +3,9 @@
 
 
 #posdwn {
-  transform: translateY(20vh) ;
+  transform: translateX(5vw) translateY(20vh) ;
   font-size: 3vw ;
-  height: 0vw;
+  height: 0vw ;
 }
 
 
