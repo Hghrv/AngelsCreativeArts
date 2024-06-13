@@ -3,10 +3,10 @@
 
 
 #posdwn {
-  transform: translateX(5vw) translateY(-6vh) ;
+  transform: translateX(15vw) translateY(-6vh) ;
   font-size: 2vw ;
   height: 0vw ;
-  max-width: 85vw ;
+  max-width: 75vw ;
   index: 3 ; 
 }
 
