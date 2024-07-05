@@ -2,6 +2,13 @@
 
 
 
+.wd {
+  max-width: 100vw ;
+}
+
+
+
+
 #posdwn {
   transform: translateX(22vw) translateY(-6vh) ;
   font-size: 2vw ;
