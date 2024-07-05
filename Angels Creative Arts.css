@@ -1071,7 +1071,7 @@ a.button {
   appearance: button;
 
   text-decoration: none;
-  color: wheat;
+  color: rgba(182, 248, 76, 0.75) ;
 }
 
 
