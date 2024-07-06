@@ -2,11 +2,14 @@
 
 
 
+.fix{
+  transform: translateX(-5vw) ;
+}
+
 .wd {
   max-width: 100vw ;
   transform: translateY(1vh) ;
 }
-
 
 
 
