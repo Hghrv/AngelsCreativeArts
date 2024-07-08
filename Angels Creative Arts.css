@@ -2,6 +2,16 @@
 
 
 
+.hde{
+  z-index : -10 ;
+  display : hidden ;
+  height: 0vh ;
+  width : 0vw; 
+}
+
+
+
+
 .fix{
   transform: translateY(-2vw) ;
 }
